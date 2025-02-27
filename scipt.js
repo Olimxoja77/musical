@@ -35,8 +35,8 @@
 
 let audio = document.querySelector("audio")
 let musical = [
-    {name:'First',id:'1',scr: './1.mp3',title:'Qodir'},
-    {name:'Second',id:'2',scr: './3.mp3',title:'Qodirali'},
+    {name:'Abduvaliev',id:'1',scr: './1.mp3',title:'Johongir'},
+    {name:'Sattriddinov',id:'2',scr: './3.mp3',title:'Saydumar'},
 ]
 let h1 =document.querySelector('h1')
 let h2 =document.querySelector('h2')
